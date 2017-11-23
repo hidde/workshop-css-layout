@@ -12,6 +12,8 @@ In deze repository vind je enkele bestanden om te oefenen, en de in de workshop 
 
 ## Meer lezen en op de hoogte blijven
 
+* [Rachel Andrew's blog](https://rachelandrew.co.uk)
+* [Jen Simmons' blog](http://jensimmons.com/)
 * [The New CSS Layout](https://abookapart.com/products/the-new-css-layout) van Rachel Andrew bij A Book Apart
 * [PhD Thesis van Håkon Wium Lie](http://www.wiumlie.no/2006/phd/css.pdf)
 * [The Experimental Layout Lab of Jen Simmons](http://labs.jensimmons.com/)
