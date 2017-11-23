@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: serif;
+    font-size: 110%;
+    line-height: 1.4;
+    max-width: 50em;
+    margin: 0 auto;
+}
+
+@media ( min -width: 50em ) {
+    body {
+        font-size: 130%;
+    }
+}
