@@ -10,12 +10,6 @@ body {
     margin: 0 auto;
 }
 
-@media ( min -width: 50em ) {
-    body {
-        font-size: 130%;
-    }
-}
-
 header { 
     border-top: 2px solid #ccc;
     border-bottom: 2px solid #ccc;
@@ -26,11 +20,6 @@ header {
 header img {
     display: block;
     margin: 0 auto;
-}
-
-main {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
 }
 
 .meta {
