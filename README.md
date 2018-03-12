@@ -21,6 +21,13 @@ In deze repository vind je enkele bestanden om te oefenen, en de in de workshop 
 * [Learn CSS Grid](http://learncssgrid.com)
 * [CSS Day 2018](https://cssday.nl/2018), CSS-congres op 15-16 juni 2018 in Amsterdam
 
+## Artikelen
+
+* [How I design with grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/) van Hui Jing Chen
+* [Supporting browsers without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/) van Rachel Andrew
+* [Should I try to use the IE implementation of CSS Grid Layout](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/) van Rachel Andrew
+* [Notes on vertical writing and CSS Grid](https://www.chenhuijing.com/blog/notes-on-vertical-writing-and-grid/#%F0%9F%91%BE) van Hui Jing Chen
+
 ### Op Twitter
 
 * [Jen Simmons](https://twitter.com/jensimmons)
