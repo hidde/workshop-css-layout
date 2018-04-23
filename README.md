@@ -23,6 +23,7 @@ In deze repository vind je enkele bestanden om te oefenen, en de in de workshop 
 
 ## Artikelen
 
+* [Best practices for Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/) van Rachel Andrew
 * [How I design with Grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/) van Hui Jing Chen
 * [Supporting browsers without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/) van Rachel Andrew
 * [Should I try to use the IE implementation of CSS Grid Layout](https://rachelandrew.co.uk/archives/2016/11/26/should-i-try-to-use-the-ie-implementation-of-css-grid-layout/) van Rachel Andrew
