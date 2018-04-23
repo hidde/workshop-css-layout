@@ -23,6 +23,7 @@ In deze repository vind je enkele bestanden om te oefenen, en de in de workshop 
 
 ## Artikelen
 
+* [Styling Empty Cells With Generated Content And CSS Grid Layout](https://www.smashingmagazine.com/2018/02/generated-content-grid-layout/) van Rachel Andrew
 * [Best practices for Grid Layout](https://www.smashingmagazine.com/2018/04/best-practices-grid-layout/) van Rachel Andrew
 * [How I design with Grid](https://www.chenhuijing.com/blog/how-i-design-with-css-grid/) van Hui Jing Chen
 * [Supporting browsers without Grid](https://www.smashingmagazine.com/2017/11/css-grid-supporting-browsers-without-grid/) van Rachel Andrew
