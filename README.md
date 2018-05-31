@@ -10,6 +10,10 @@ In this workshop you'll find some links to help practice the concepts as well as
 * [Alignment with align items](https://codepen.io/hidde/pen/NwMLaR)
 * [Alignment with align content](https://codepen.io/hidde/pen/pdVOar)
 
+## Posters
+
+* [Van Abbemuseum](https://codepen.io/hidde/pen/oyXLYx)
+
 ## Interesting links
 
 * [Rachel Andrew's blog](https://rachelandrew.co.uk)
