@@ -2,7 +2,7 @@
 
 In this workshop you'll find some links to help practice the concepts as well as links mentioned in the workshop. 
 
-## Alignmen with flexbox 
+## Alignment with flexbox 
 
 * [Automagical margins](https://codepen.io/hidde/pen/mqLGyg)
 * [Alignment with align-self](https://codepen.io/hidde/pen/dZeqGQ)
